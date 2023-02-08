@@ -1,5 +1,5 @@
 ################################################################
-# this R code summarizes Theiagen workflows' data from Terra.bio
+# this R code summarizes Theiagen workflow data from Terra.bio
 #
 #James R. Otieno
 ################################################################
